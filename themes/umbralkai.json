@@ -292,7 +292,7 @@
         "surface.background": "#131212",
         "background": "#131212",
         "element.background": "#3e4044",
-        "element.hover": "#63636310",
+        "element.hover": "#63636320",
         "element.active": "#636363aa",
         "element.selected": "#63636355",
         "element.disabled": null,

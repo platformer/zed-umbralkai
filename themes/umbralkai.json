@@ -437,6 +437,24 @@
             "font_style": null,
             "font_weight": null
           },
+         "boolean": {
+            "color": "#b69cf6",
+            "background_color": null,
+            "font_style": null,
+            "font_weight": null
+          },
+          "comment": {
+            "color": "#636363",
+            "background_color": null,
+            "font_style": null,
+            "font_weight": null
+          },
+          "comment.doc": {
+            "color": "#636363",
+            "background_color": null,
+            "font_style": null,
+            "font_weight": null
+          },
           "constant": {
             "color": "#b4b44a",
             "background_color": null,
@@ -446,6 +464,12 @@
           "constructor": {
             "color": "#f18aa1",
             "background_color": null,
+            "font_style": null,
+            "font_weight": null
+          },
+          "embedded": {
+            "color": "#fffdfb",
+            "background_color": "#181b1f",
             "font_style": null,
             "font_weight": null
           },
